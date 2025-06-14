@@ -1,0 +1,15 @@
+pyttsx3==2.90
+vosk==0.3.45
+sounddevice==0.4.6
+pyaudio==0.2.13  
+pywhatkit==5.4
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+schedule==1.2.1
+plyer==2.1.0
+selenium==4.20.0
+pyautogui==0.9.54
+SpeechRecognition==3.10.1  
+websocket-client==1.7.0
+dotenv
