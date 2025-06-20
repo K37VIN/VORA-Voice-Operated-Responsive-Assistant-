@@ -1,6 +1,6 @@
 ## VORA-Voice Operated Responsive Assistant
 
-The Voice-Activated Desktop Assistant is a Python-powered, offline-friendly personal assistant designed to automate desktop tasks using voice commands. This tool streamlines daily computer activities by allowing users to interact with their system naturally, without the need for manual input or navigation.
+The Voice Operated Responsive Assistant is a Python-powered, offline-friendly personal assistant designed to automate desktop tasks using voice commands. This tool streamlines daily computer activities by allowing users to interact with their system naturally, without the need for manual input or navigation.
 
 The assistant leverages libraries like SpeechRecognition or Vosk for voice-to-text processing and pyttsx3 for converting text responses to speech. With a modular design, the assistant can open applications (e.g., Notepad, Chrome), send emails and WhatsApp messages, search the web, fetch news and weather updates, and even manage personal notes and to-do lists.
 
